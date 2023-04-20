@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header { 
+    text-align: center;
+    background-color: bisque;
+    width: 100%px;
+    height: 95px;
+    padding-top: 25px;
+}
+
+
+.navbar{
+    background-color:rgb(170, 225, 225);
+    height: 75px;
+}
+
+.navbar a{
+    display: flex;
+}
+
+.ok{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(196, 141, 196);
+}
